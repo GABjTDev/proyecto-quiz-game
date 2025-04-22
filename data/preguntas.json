@@ -1,0 +1,26 @@
+{
+  "facil": [
+    {
+      "categoria": "Ciencia FACIL",
+      "pregunta": "¿Cuál es el planeta más grande del sistema solar?",
+      "opciones": ["Tierra", "Marte", "Júpiter", "Venus"],
+      "respuesta": "Júpiter FACIL"
+    }
+  ],
+  "medio": [
+    {
+      "categoria": "Ciencia MEDIO",
+      "pregunta": "¿Cuál es el planeta más grande del sistema solar?",
+      "opciones": ["Tierra", "Marte", "Júpiter", "Venus"],
+      "respuesta": "Júpiter MEDIO"
+    }
+  ],
+  "dificil": [
+    {
+      "categoria": "Ciencia DIFICIL",
+      "pregunta": "¿Cuál es el planeta más grande del sistema solar?",
+      "opciones": ["Tierra", "Marte", "Júpiter", "Venus"],
+      "respuesta": "Júpiter DIFICIL"
+    }
+  ]
+}
